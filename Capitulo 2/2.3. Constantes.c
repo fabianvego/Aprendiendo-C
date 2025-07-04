@@ -20,23 +20,23 @@
 
 //Constantes de punto flotante. 
 
-#include <stdio.h>
+// #include <stdio.h>
 
-int main() {
-    float pi_f = 3.14f;
-    double pi_d = 3.141592653589793;
-    long double pi_ld = 3.141592653589793238;
+// int main() {
+//     float pi_f = 3.14f;
+//     double pi_d = 3.141592653589793;
+//     long double pi_ld = 3.141592653589793238;
 
-    printf("Float: %.6f\n", pi_f);
-    printf("Double: %.15lf\n", pi_d);
-    printf("Long double: %.18Lf\n", pi_ld);
+//     printf("Float: %.6f\n", pi_f);
+//     printf("Double: %.15lf\n", pi_d);
+//     printf("Long double: %.18Lf\n", pi_ld);
 
-    return 0;
-}
+//     return 0;
+// }
 
 
 
-//Constatntes de caracter.
+// //Constatntes de caracter.
 
 // #include <stdio.h>
 
